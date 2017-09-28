@@ -1,0 +1,9 @@
+
+<resources>
+    <color name="light_text">#bcbcbc</color>
+    <color name="background">#ff5722</color>
+    <color name="forecast_color">#ff7043</color>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#ff5722</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
