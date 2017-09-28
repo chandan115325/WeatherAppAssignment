@@ -255,16 +255,16 @@ public class WeatherActivity extends AppCompatActivity implements WeatherService
 
     @Override
     public void onStatusChanged(String s, int i, Bundle bundle) {
-        // OPTIONAL: implement your custom logic here
+
     }
 
     @Override
     public void onProviderEnabled(String s) {
-        // OPTIONAL: implement your custom logic here
+
     }
 
     @Override
     public void onProviderDisabled(String s) {
-        // OPTIONAL: implement your custom logic here
+
     }
 }
